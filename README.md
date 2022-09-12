@@ -1,10 +1,6 @@
 
-<div id="header" align="center">
 
 ### Hi there 👋 I'm Slava 
-
-
-
 
 <!--
 **slava-rohau/slava-rohau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
