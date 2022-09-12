@@ -3,17 +3,6 @@
 
 ### Hi there 👋 I'm Slava 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=https://www.linkedin.com/in/slava-rohau/&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=slava-rohau&color=blue" alt=""/>
 
 
 
