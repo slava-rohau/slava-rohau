@@ -11,9 +11,7 @@
 </div> 
  
 ### :man_technologist:About Me :
-  
-  I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-  
+   
 - :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
 
 - :seedling: I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
