@@ -1,7 +1,7 @@
 
 <div id="header">
 
-  ### Hi there 👋  I'm QA Authomation and Manual Engeener
+  ### Hi there 👋  I'm QA Engineer
 
   <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
