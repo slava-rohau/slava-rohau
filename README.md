@@ -21,7 +21,7 @@
 ---
   
 <div align="center">
-      <img src="https://bugza.info/wp-content/uploads/2020/05/InstantQA_Blogpost.jpg" width="600" height="300"/>
+      <img src="https://bugza.info/wp-content/uploads/2020/05/InstantQA_Blogpost.jpg" width="1000" height="500"/>
 </div> 
 
 ---
